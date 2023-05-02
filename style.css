@@ -1,0 +1,87 @@
+
+section.header{
+    width:100%; 
+    height:800px; 
+    background-color: rgb(196, 196, 196);
+position:auto;
+top:-50px}
+
+div.name{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif ;
+    font-size: 100px;
+    text-align: right;
+    float:center;
+    margin:5%;
+    text-shadow: 4px 4px 8px rgb(91, 91, 91);
+    
+  
+}
+
+div.headerList{
+    font-size: 25px;
+    text-align: right;
+    font-family:Helvetica;
+   margin:6%;
+position:absolute 0px 1500px;
+text-shadow: 4px 4px 8px rgb(91, 91, 91);
+   
+}
+
+div.personalIntro{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 26px;
+    text-align: right; 
+    position:relative;
+    top:-310px;
+   right: -820px;
+
+}
+/*Next Section: First Project; Travel19 APP*/
+
+div.IOStravel19{
+font-size: 20px;
+font-family:Arial, Helvetica, sans-serif ;
+position:relative;
+top:100px;
+right:-10px;
+
+}
+#buttons{text-shadow: 1px 2px 4px rgb(103, 103, 103);
+position:relative;
+top:20px;
+right: 78px}
+
+
+div.PCusdaRedesign{
+    font-size: 20px;
+    font-family:Arial, Helvetica, sans-serif ;
+    position:relative;
+    top:-400px;
+    right:-10px;
+
+}
+div.MintlyApp{
+    font-size: 20px;
+    font-family:Arial, Helvetica, sans-serif ;
+    position:relative;
+    top:-800px;
+    right:-10px;}
+
+    div.theWayHomeRedesign{
+        font-size: 20px;
+        font-family:Arial, Helvetica, sans-serif ;
+        position:relative;
+        top:-1200px;
+        right:-10px;}
+
+        /*CONTACT PAGE DESIGN*/ 
+       div.ContactMeINfo{
+            font-size: 40px;
+            font-family: Arial, Helvetica, sans-serif;
+            text-align: right;
+            position:relative;
+           top:-900px;
+           right:-440px;
+
+        }
+       
